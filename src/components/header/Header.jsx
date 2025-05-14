@@ -2,7 +2,7 @@ import React from 'react'
 import logoNav from "../../assets/Logo.svg"
 import search from "../../assets/Search.svg"
 import person from "../../assets/Person.svg"
-import cart from "../../assets/Shopping cart.svg"
+import cart from "../../assets/Shopping Cart.svg"
 import {LINK} from "../../static/index"
 
 const Header = () => {
