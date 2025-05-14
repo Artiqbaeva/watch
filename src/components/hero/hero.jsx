@@ -13,7 +13,7 @@ const Hero = () => {
         <button>Search</button>  
       </div>
     </div>
-    <div className='w-full'>
+    <div className='w-full hero-img'>
     <img className='' src={heroImg} alt="" />
     </div>
    </div>

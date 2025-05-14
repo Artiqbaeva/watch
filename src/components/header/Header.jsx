@@ -7,9 +7,9 @@ import {LINK} from "../../static/index"
 
 const Header = () => {
   return (
-    <header className=' bg-[#0B0B0B] relative'>
+    <header className=' bg-[#0B0B0B] relative header h-screen'>
     <nav className='container mx-auto navbar flex  min-h-[600px] items-start justify-between my-4 ' >
-      <div>
+      <div >
       <img src={logoNav} alt='' />
       </div>
      
